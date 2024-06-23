@@ -1,0 +1,10 @@
+* Handling Requests from Curl
+A simple example for how to handle requests from curl separately from a browser.
+This is example is with Flask, but same idea should apply to any backend.
+
+This is probably how the [[https://alx.sh][Asahi Linux install script]] can redirect
+to their website when ran from a browser, but returns the install script when curled
+
+** Running the Example
+Make sure to install Flask if you haven't already.
+`flask --app flaskr run`
