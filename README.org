@@ -7,4 +7,5 @@ to their website when ran from a browser, but returns the install script when cu
 
 ** Running the Example
 Make sure to install Flask if you haven't already.
+
 `flask --app flaskr run`
